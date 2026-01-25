@@ -1,5 +1,5 @@
 # triangOS
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/dave41413/triangOS?utm_source=oss&utm_medium=github&utm_campaign=dave41413%2FtriangOS&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 tiangOS is an experimental, minimal operating system project. This repository contains the sources, build scripts, and documentation for developing and running triangOS in emulators or on supported hardware.
 
 Status
@@ -10,6 +10,7 @@ Key features (planned or in-progress)
 - Minimal kernel with task switching
 - Basic driver support (keyboard, screen, disk)
 - Simple userspace environment
+- DE support
 
 Getting started
 ---------------
@@ -40,7 +41,7 @@ Contributions are welcome. Please open issues for bugs or feature requests and s
 
 License
 -------
-Specify a license for your project (e.g., MIT, Apache-2.0). If you don't have one yet, consider adding a LICENSE file.
+Apache-2.0
 
 Contact
 -------
